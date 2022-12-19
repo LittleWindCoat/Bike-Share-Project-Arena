@@ -1,0 +1,2 @@
+# Bike Share Project Arena
+ Bike share provides free or affordable access to bicycles for short-distance trips in urban areas as an alternative to motorized vehicles. Therefore bike-share systems have become increasingly important for their environmentally friendly, convenient, and low-cost characteristics. In this project, we are studying the nation’s largest bike-share program, Citi Bike, and building a simulation model to analyze and improve the daily operation of the Citi bike share system.
